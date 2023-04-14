@@ -1,8 +1,8 @@
 package com.overriding.student;
 
-public class ScienceStudent extends Student{
+public class ScienceStudent extends Student {
 
-  float scienceStudentFees=30000;
+  float scienceStudentFees = 30000;
 
   @Override
   public double fees() {
